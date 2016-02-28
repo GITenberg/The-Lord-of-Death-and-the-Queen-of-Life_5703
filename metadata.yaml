@@ -1,0 +1,27 @@
+_repo: The-Lord-of-Death-and-the-Queen-of-Life_5703
+creator:
+  author:
+    agent_name: Flint, Homer Eon
+    alias: Flindt, Homer Eon
+    birthdate: 1888
+    deathdate: 1924
+    gutenberg_agent_id: '1592'
+    url: http://www.gutenberg.org/2009/agents/1592
+    wikipedia: http://en.wikipedia.org/wiki/Homer_Eon_Flint
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Life on other planets -- Fiction'
+- !lcsh 'Mercury (Planet) -- Fiction'
+- !lcc 'PS'
+title: The Lord of Death and the Queen of Life
+url: http://www.gutenberg.org/ebooks/5703
