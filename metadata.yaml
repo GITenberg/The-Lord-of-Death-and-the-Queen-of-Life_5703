@@ -1,5 +1,8 @@
 _repo: The-Lord-of-Death-and-the-Queen-of-Life_5703
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Flint, Homer Eon
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1592
     wikipedia: http://en.wikipedia.org/wiki/Homer_Eon_Flint
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5703#The-Lord-of-Death-and-the-Queen-of-Life
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
