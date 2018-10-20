@@ -1,5 +1,5 @@
 _repo: The-Lord-of-Death-and-the-Queen-of-Life_5703
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ subjects:
 - !lcsh 'Life on other planets -- Fiction'
 - !lcsh 'Mercury (Planet) -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: The Lord of Death and the Queen of Life
 url: http://www.gutenberg.org/ebooks/5703
